@@ -1,0 +1,48 @@
+@font-face{
+	font-family:"Neou-Thin";
+	src:url('Neou-Thin.ttf,Neou-Bold.ttf');
+}
+body{
+	padding:0px;
+	margin: 0px;
+	background-color: rgb(45,45,45);
+	font:20px "Neou-Thin";
+
+}
+img{
+border:solid .5px white;
+padding: 10px;
+
+
+
+
+}
+a{
+	margin: 30px;
+	text-align: center;
+
+}
+#container{
+	text-align: center;
+	padding: 30px;
+	margin-top:125px;
+}
+a>span{
+	color: white;
+	margin:-45px auto;
+	position: absolute;
+	font-size: 35px;
+}
+.title{
+	color: white;
+	text-align: center;
+	font:75px "Neou-Bold";
+	margin-top:155px;
+}
+
+section{
+	display: inline-flex;
+	border-bottom:solid 1px white;
+	border-radius: 40px;
+	margin-bottom: 40px;
+}

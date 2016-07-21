@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"main",
+				"main_header"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"h",
+				"header	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"ou",
+				"outputText"
+			],
+			[
+				"output",
+				"outputText〔variable〕"
+			],
+			[
+				"out",
+				"outputText〔variable〕"
+			],
+			[
+				"text",
+				"text-decoration-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"si",
+				"size: 〔property〕"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"my",
+				"myDiv"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"addt",
+				"addtexti"
+			],
+			[
+				"a",
+				"addtexti"
+			],
+			[
+				"ad",
+				"addtextf"
+			],
+			[
+				"add",
+				"addtext〔variable〕"
+			],
+			[
+				"addte",
+				"addtextf"
+			],
+			[
+				"chang",
+				"changeform"
+			],
+			[
+				"name",
+				"name=〔attribute〕"
+			],
+			[
+				"cha",
+				"changediv〔variable〕"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"fir",
+				"firstChild"
+			],
+			[
+				"chan",
+				"changeform"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"squ",
+				"square2"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"layer",
+				"layer1"
+			],
+			[
+				"po",
+				"position: 〔property〕"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"funtio",
+				"function〔keyword〕"
+			],
+			[
+				"g",
+				"getElementById〔function〕"
+			],
+			[
+				"ge",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"backrou",
+				"background-color"
+			],
+			[
+				"d",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ftp",
+				"FTPSync: Setup FTPSync in this folder"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 187.0,
+		"history":
+		[
+			"console.log(names);",
+			"\"names\"",
+			"display names",
+			"names?",
+			"names?]",
+			"names=",
+			"names;",
+			"console.log(names);",
+			"console.log(names)",
+			"names",
+			"colsole.log(names)",
+			"names",
+			"names[]",
+			"names",
+			"r",
+			"q=",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print(hh)",
+			"type(5)",
+			"type(50",
+			"5",
+			"help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BrendanJaggars/Documents/FEWD/FEWD project/index.js",
+		"/Users/BrendanJaggars/Documents/FEWD/FEWD project/index.css",
+		"/Users/BrendanJaggars/Documents/FEWD/FEWD project/index.html",
+		"/Users/BrendanJaggars/Documents/FEWD/image_carousel/js/script.js",
+		"/Users/BrendanJaggars/Documents/FEWD/image_carousel/index.html",
+		"/Users/BrendanJaggars/Documents/FEWD/responsive/js/script.js",
+		"/Users/BrendanJaggars/Documents/FEWD/responsive/css/style.css",
+		"/Users/BrendanJaggars/Documents/FEWD/responsive/index.html",
+		"/Users/BrendanJaggars/Documents/FEWD/W6C11/image_carousel/js/script.js",
+		"/Users/BrendanJaggars/Documents/FEWD/W6C11/image_carousel/css/index.css",
+		"/Users/BrendanJaggars/Documents/FEWD/W6C11/image_carousel/index.html",
+		"/Users/BrendanJaggars/Documents/FEWD/W5C9/index.html",
+		"/Users/BrendanJaggars/Documents/FEWD/W5C9/js/script.js",
+		"/Users/BrendanJaggars/Desktop/jaggars_work/Extream_practice/index.html",
+		"/Users/BrendanJaggars/Desktop/jaggars_work/Extream_practice/index.js",
+		"/Users/BrendanJaggars/Documents/FEWD/starter_code 2/jquery_dom_selector_practice/js/exercise.js",
+		"/Users/BrendanJaggars/Documents/FEWD/starter_code 2/color_scheme_switcher/js/index.js",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/BrendanJaggars/Desktop/web development /other/workbook examples/javascript_examples/DOM nodes ex.html",
+		"/Users/BrendanJaggars/Desktop/web development /other/workbook examples/javascript_examples/functions.html",
+		"/Users/BrendanJaggars/Desktop/this is a text fin",
+		"/Users/BrendanJaggars/Desktop/image2.png",
+		"/Users/BrendanJaggars/Documents/FEWD/protfolio/css/protfolio_style.css",
+		"/Users/BrendanJaggars/Downloads/03_box_model/starter_code/tags_boxes/css/style.css",
+		"/Users/BrendanJaggars/Downloads/03_box_model/starter_code/tags_boxes/index.html",
+		"/Users/BrendanJaggars/Downloads/03_box_model/starter_code/nested_selectors/index.html",
+		"/Users/BrendanJaggars/Downloads/03_box_model/starter_code/nested_selectors/css/style.css",
+		"/Users/BrendanJaggars/Documents/FEWD/protfolio/portfolio.html",
+		"/Users/BrendanJaggars/Desktop/web development /divs templet/css tricks.css",
+		"/Users/BrendanJaggars/Documents/FEWD/protfolio/index.html",
+		"/Users/BrendanJaggars/Desktop/web development /other/workbook examples/javascript_examples/event lisiteners.html",
+		"/Users/BrendanJaggars/Desktop/web development /other/workbook examples/layers.html",
+		"/Users/BrendanJaggars/Desktop/web development /sftp-config.json",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/BrendanJaggars/Desktop/web development /divs templet/html testing divs templet.css",
+		"/Users/BrendanJaggars/Desktop/web development /now/html testing.css",
+		"/Users/BrendanJaggars/Desktop/web development /now/html testing.html",
+		"/Users/BrendanJaggars/Desktop/web development /other/workbook examples/javascript testing.html",
+		"/Users/BrendanJaggars/Desktop/web development /index.html",
+		"/Users/BrendanJaggars/Desktop/jaggars_work/new_folder/index.html",
+		"/Users/BrendanJaggars/Desktop/web development /index.php",
+		"/Users/BrendanJaggars/Desktop/web development /form_script.php",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/jaggars",
+		"/Users/BrendanJaggars/Desktop/web development /untitled1",
+		"/Users/BrendanJaggars/Desktop/web development /jaggarstest",
+		"/Users/BrendanJaggars/Desktop/web development /untitled",
+		"/Users/BrendanJaggars/Library/Application Support/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/Users/BrendanJaggars/Desktop/web development /divs templet/html testing.html",
+		"/Users/BrendanJaggars/Desktop/web development /jaggars",
+		"/Users/BrendanJaggars/Desktop/web development /divs templet/html testing.css",
+		"/Users/BrendanJaggars/Desktop/web development /html testing.html",
+		"/Users/BrendanJaggars/Desktop/web development /css tricks.css",
+		"/Users/BrendanJaggars/Desktop/web development /comand shortcuts",
+		"/Users/BrendanJaggars/Desktop/web development /divs templet/html testing divs templet.html",
+		"/Users/BrendanJaggars/Desktop/web development /html testing templet.css",
+		"/Users/BrendanJaggars/Desktop/web development /html testing.css",
+		"/Users/BrendanJaggars/Documents/web development /html testing.css",
+		"/Users/BrendanJaggars/Documents/web development /html testing.html",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/style.css",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/test2.html",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/javascript.js",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/index.html",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/test1.html",
+		"/Users/BrendanJaggars/Documents/web development /bootstrap/untitled2.html",
+		"/Users/BrendanJaggars/Documents/web development /untitled.html",
+		"/Users/BrendanJaggars/Library/Caches/TemporaryItems/1-test.html",
+		"/Users/BrendanJaggars/Library/Caches/TemporaryItems/12-index.html",
+		"/Users/BrendanJaggars/Documents/temp.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item 1",
+			"id=\"main_nav\"",
+			"id=\"main_nav",
+			"200px",
+			"alt=\"img\"",
+			"class",
+			"iframe",
+			"+'<br>';",
+			"greet1_submit",
+			"greet1_display",
+			"greet1_input",
+			"RentalOwnersState",
+			"returnLast_submit",
+			"\"",
+			"\n\n\n\n\n\nsds",
+			"div",
+			"document.write(x)\n",
+			"	obj.style.top=y + \"px\";\n",
+			"<button>hide</button>\n",
+			">\n",
+			"	width:150px;\n	float: left;\n	margin-top: 12px\n	margin-right:18px;",
+			"border:1px solid black;",
+			"border: 1px",
+			"border: 1px solid black;",
+			"<",
+			"s",
+			"item",
+			"<div",
+			"//",
+			"1",
+			"	<li></li>\n",
+			"z-index:",
+			"4;",
+			"top",
+			"left",
+			"300",
+			"/float: right;",
+			"float: left;",
+			"box",
+			".",
+			"div",
+			"\"",
+			"=\"box1\"",
+			"id",
+			"#",
+			"#1",
+			"1",
+			"this is a div",
+			"div",
+			"#",
+			"\n#",
+			".",
+			"class",
+			"box",
+			"	",
+			"1",
+			"box1",
+			"box",
+			"<div class=\"box\">this is a div\n\n</div>",
+			"box",
+			"class",
+			"</div>",
+			"\n</",
+			";\n",
+			">\n",
+			"  \n",
+			"\n    "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 186.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 313.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"sftp-config.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 103.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
