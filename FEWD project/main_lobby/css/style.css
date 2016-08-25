@@ -49,6 +49,9 @@ a>span{
 	margin:-45px auto;
 	position: absolute;
 	font-size: 35px;
+	-webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: white;
+
 }
 
 .title{
